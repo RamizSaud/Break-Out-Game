@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libgame.a CMakeFiles/game.dir/game.cpp.obj CMakeFiles/game.dir/sprite_renderer.cpp.obj CMakeFiles/game.dir/game_object.cpp.obj CMakeFiles/game.dir/game_level.cpp.obj CMakeFiles/game.dir/ball_object.cpp.obj CMakeFiles/game.dir/ball_object_collisions.cpp.obj
+C:\MinGW\bin\ranlib.exe libgame.a
